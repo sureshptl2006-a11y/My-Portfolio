@@ -233,7 +233,7 @@
 
     // ============ TYPING EFFECT ============
     const typedTextEl = document.querySelector('.typed-text');
-    const phrases = ['Full-Stack Web Apps.', 'Interactive 3D Experiences.', 'AI-Powered Solutions.', 'Modern UI/UX Design.'];
+    const phrases = ['Full-Stack Web.', '3D Interfaces.', 'AI Workflows.', 'UI/UX Design.'];
     const initialText = typedTextEl.textContent.trim();
     let phraseIndex = 0;
     let charIndex = initialText.length;
